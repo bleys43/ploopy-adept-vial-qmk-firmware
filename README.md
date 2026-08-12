@@ -11,4 +11,6 @@ ploopyco_madromys_rev1_001_bleys43-vial-semphore_4.uf2 non- high resolution scro
 
 ploopyco_madromys_rev1_001_bleys43-vial-toggle-scroll-semphore_4.uf2 - toggle-scroll version of the above firmware
 
+ploopyco_madromys_rev1_001_bleys43-vial-semphore_8.uf2 - less sensitive drag-scroll version of the non -high resolution with momentary scroll
+
 madromys/ - source files for building these firmwares
